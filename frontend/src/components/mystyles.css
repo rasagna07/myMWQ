@@ -1,0 +1,460 @@
+#homeBGadjusting{
+    height: 600px;
+    padding-top: 39%;
+  /* padding-right: 30%; */
+
+}
+#homeHeading{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding-top: 7%;
+   color:rgb(164, 120, 69);
+   font-weight: bolder;
+   /* text-decoration: underline; */
+   /* text-decoration-color:rgb(174, 113, 161) ; */
+ font-size:1.7cm;
+}
+#trynowButton{
+    text-align: center;
+}
+.homeBG{
+ 
+    background-color:rgb(252, 251, 230);
+   
+}
+#leftSideHome{
+    text-align: center;
+}
+#quotation{
+    text-align: center;
+    font-size: 0.6cm;
+  
+    color: rgb(97, 70, 70);
+}
+#whoRElibile{
+    padding-top: 8%;
+}
+#eligibleMem{
+
+    height: 120px;
+    width: 120px;
+  box-shadow: 2px 2px 15px 2px rgb(47, 47, 47);
+    border-radius: 50%;
+}
+
+/* #homeEligiBtns{
+    border-radius: 50%;
+    box-shadow: 2px 2px 2px 2px;
+} */
+#homeMemBtn{
+    border-radius: 50%;
+  border-style:none;
+}
+#homeMemBtn:hover{
+    box-shadow: 3px 3px 15px 3px rgb(103, 224, 232);
+}
+#wmqHeading{
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:rgb(140, 20, 155);
+    font-weight: bolder;
+    padding-bottom: 5%;
+    padding-top: 8%;
+    font-size: 1cm;
+}
+#mwqQuote{
+    color: rgb(34, 135, 135);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size:1.5cm;
+    padding-top: 10%;
+}
+.htw{
+    padding-top: 10%;
+}
+#htwHeading{
+    font-size: 3cm;
+    color: rgb(163, 77, 16);
+    text-align:right;
+    padding-top: 40%;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#htwCaption{
+    font-size: 0.7cm;
+   font-style: italic;
+   color: rgb(76, 70, 146);
+   padding-top: 7%;
+}
+
+
+
+
+.signup{
+        width: 80%;
+     background-color: rgb(219, 184, 206);
+        /* background-color: rgb(220, 167, 212); */
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5); 
+        padding-left: 15px;
+        padding-right: 15px;
+        padding-bottom: 20px;
+        padding-top: 15px;
+      text-align: left;
+    
+}
+#signUpTitle{
+    padding-left: 2px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+
+    width: 80%;
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  /* text-align:center; */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5); 
+  background-color: rgb(76, 74, 74);
+  
+  color:rgb(201, 201, 201);
+}
+.SignUpBG{
+    background-color:rgb(252, 251, 230);
+
+}
+#signUpRole{
+    text-align: left;
+}
+#SignUpforgetPws{
+    text-align: right;
+}
+.loginBG{
+    /* background-image: url('../images/bg.webp'); */
+    
+    background-color:rgb(252, 251, 230);
+}
+
+
+
+
+
+
+
+
+
+/* .dashboard{
+    text-align: center;
+} */
+#dashboardHeading{
+padding-bottom: 3%;
+padding-top: 5%;
+color: rgb(148, 13, 123);
+font-family: 'Times New Roman', Times, serif;
+font-size: 1.5cm;
+
+}
+#dashboardHeadingTeach{
+    padding-bottom: 3%;
+padding-top: 5%;
+color: rgb(148, 13, 123);
+font-family: 'Times New Roman', Times, serif;
+font-size: 1.5cm;
+
+}
+
+.studashbg{
+    /* background-color: rgb(223, 235, 242); */
+ background-image: url('../images/studentDBbg.jpg');
+background-repeat:repeat-x;
+ background-size: 60%;
+background-position: 20%;
+background-color: rgb(225, 230, 230);
+/* background-attachment: fixed; */
+
+
+}
+.quizeBG{
+       
+    background-color:rgb(252, 251, 230);
+}
+.quizeBGTeacher{
+    background-color: rgb(225, 219, 206);
+}
+#quizeHeading{
+    text-align: center;
+    color: blueviolet;
+}
+#stuQuizeBG{
+    /* height: 100%; */
+    height: 100%;
+   width: 100%;
+   position: sticky;
+  
+}
+
+#quizeSubmit{
+   text-align: center;
+}
+.form-check-label:hover{
+    color: rgb(18, 139, 7);
+    
+}
+
+
+.teachdashbg{
+    /* background-color: rgb(223, 235, 242); */
+ background-image: url('../images/teacherDBbg.jpg');
+/* background-repeat:no-repeat; */
+/* background-size:80%; */
+/* background-position: 50%; */
+/* background-size: 35cm; */
+
+background-repeat:round;
+
+}
+#orParent{
+    margin-left: -35%;
+}
+.parentdashbg{
+    background-image: url('../images/parentDbBG.jpg');
+    background-size: 100%;
+background-position: 100%;
+background-repeat:round;
+background-color: rgb(255, 255, 255);
+background-repeat: no-repeat;
+}
+#dashboardHeadingParent{
+    padding-bottom: 3%;
+padding-top: 10%;
+padding-right: 20%;
+margin-left: -15%;
+font-family: 'Times New Roman', Times, serif;
+font-size: 1.5cm;
+
+}
+#parentBtn{
+  
+   margin-left: -35%;
+}
+
+#TeachQzizeBG{
+    height: 100%;
+    width: 100%;
+    position: sticky;
+}
+#pareQuizeBG{
+    height: 100%;
+    width: 100%;
+    position: sticky;
+}
+
+.admindashbg{
+    background-image: url("../images/principalDbBG.png");
+    background-repeat:repeat-x;
+    background-size: 90%;
+  
+  
+}
+#admBtn{
+    text-align: center;
+}
+#dashboardHeadingAdmin{
+color: rgb(11, 11, 11);
+padding-bottom: 3%;
+text-align: center;
+
+font-family: 'Times New Roman', Times, serif;
+font-size: 1.5cm;
+
+}
+#adminbtn{
+    text-align: center;
+}
+.admmsgbg{
+    background-color: rgb(77, 178, 222);
+}
+.accreDbBG{
+    background-image: url("../images/accreditedDbBG.webp");
+
+    background-repeat:round;
+
+
+}
+.accDBtext{
+    text-align: center;
+}
+#dashboardHeadingAccr{
+    color: rgb(239, 239, 239);
+    padding-bottom: 3%;
+    
+    
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5cm;
+}
+#footerSocialMediaIcons{
+    margin-right: 10px;
+   
+}
+#footer{
+    background-color:rgb(252, 251, 230);
+    /* padding-bottom: 23%; */
+}
+@media screen and (max-width:600px){
+    #dashboardHeadingAccr{
+        color: rgb(239, 239, 239);
+        padding-bottom: 3%;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 1cm;
+    
+    }
+    #dashboardHeadingAdmin{
+        color: rgb(11, 11, 11);
+        padding-bottom: 3%;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 1cm;
+        
+        }
+    .btn {
+       
+        padding: 10px 20px;
+        font-size: 16px;
+   
+        border-radius: 5px;
+      
+    }
+    #dashboardHeadingParent{
+        padding-bottom: 3%;
+    padding-top: 10%;
+    
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1cm;
+    }
+    #homeBGadjusting{
+        height: 0px;
+        /* padding-top: 30%; */
+      
+    }
+    #wmqHeading{
+        margin-top: -200px;
+        font-size: 25px;
+    }
+    #mwqQuote{
+        margin-top: -90px;
+        font-size: 20px;
+    }
+    #homeHeading{
+font-size: 16px;
+    }
+    #htwHeading{
+        font-size: 30px;
+    }
+    #quotation{
+        font-size: 14px;
+    }
+    #homeTryNowBut{
+        font-size: 10px;
+        /* padding: 10px ; */
+    }
+    #eligibleMem{
+height: 70px;
+width: 70px;
+
+    }
+    #eligibleMemText{
+        font-size: 15px;
+        display: inline;
+      padding: 5%;
+    }
+    .studashbg{
+        /* background-color: rgb(223, 235, 242); */
+     background-image: url('../images/studentDBbg.jpg');
+    background-repeat:repeat-x;
+     background-size: 100%;
+
+    background-color: rgb(225, 230, 230);
+background-position-x: 100%;
+    }
+    #dashboardHeading{
+   padding-top: 10%;
+   padding-bottom: 10%;
+        color: rgb(148, 13, 123);
+        font-family: 'Times New Roman', Times, serif;
+        font-size:30px;
+        
+        }
+        #stuBtn{
+          
+font-size: 13px;
+        }
+       #stuQuizeBG{
+        height: 0px;
+        width: 0%;
+      
+       }
+       #dashboardHeadingTeach{
+       
+    padding-top: 25%;
+    color: rgb(148, 13, 123);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 0.5cm;
+    
+    }
+    #teachBtn{
+   margin-top: 3%;
+   margin-bottom: 3%;
+        font-size: 10px;
+    }
+    #TeachQzizeBG{
+        height: 0%;
+        width: 0%;
+    }
+    #pareQuizeBG{
+        height: 0%;
+    width: 0%;
+    }
+    #dashboardHeadingParent{
+        padding-bottom: 3%;
+    padding-top: 10%;
+text-align: center;
+  
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 0.6cm;
+    
+    }
+    /* .parentdashbg{
+   background-image: url("");
+     
+
+    } */
+   
+    #parentBtn{
+ background-color: rgb(37, 155, 116);
+      text-align: center;
+      color: azure;
+      margin-left: 0;
+     }
+   #or{
+    text-align: center;
+    margin-left: 0;
+   }
+     .dashboard{
+        text-align: center;
+     }
+     #pareQuizeBG{
+        height: 0%;
+        width: 0%;
+      
+    }
+   
+    /* .admindashbg{
+        background-image: url("");
+    } */
+    #dashboardHeadingAdmin{
+        color: rgb(11, 11, 11);
+       
+        text-align: center;
+        
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 1cm;
+        
+        }
+   
+}
